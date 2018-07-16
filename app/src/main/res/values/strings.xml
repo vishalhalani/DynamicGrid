@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">vishaltest</string>
+    <string name="enter_row">Enter row</string>
+    <string name="enter_column">Enter column</string>
+    <string name="generate">Generate</string>
+    <string name="randomize">Randomize</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+    <string name="enter_number">Enter Number</string>
+</resources>
